@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "wosnxn123资源1分享备份仓库",
+  title: "wosnxn123资源分享备份仓库",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -50,7 +50,11 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/wosnxn1232/onedrive-vercel-index',
+      link: 'https://github.com/wosnxn1232',
+    },
+    {
+      name: 'GitHub',
+      link: 'https://github.com/wosnxn1232',
     },
   ],
 
